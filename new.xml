@@ -1,0 +1,16 @@
+<InfoAboutPerson>
+  <Me>
+      <FirstName>Maksim</FirstName>
+      <LastName>Tatarinovich</LastName>
+      <ThirdName>Aleksandrovich</ThirdName>
+      <Age>21</Age>
+      <Address>
+           <City>Minsk</City>
+           <Street>Dzerzhinskogo 18</Street>
+           <Zip>560212</Zip>
+      </Address>
+      <FutureSalary>700k</FutureSalary>
+  </Me>
+</InfoAboutPerson>
+
+
