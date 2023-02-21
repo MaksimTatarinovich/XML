@@ -1,1 +1,14 @@
-
+<Bug_Report>
+  <LogIn_Button>
+      <№>2</№>
+      <Priority>High</Priority>
+      <Severity>Low</Severity>
+      <Version>Yandex 2.5</Version>
+      <Description>
+          <Step1>Insert login: MaksPes</Step1>
+          <Step2>Insert password: MaksCot</Step2>
+          <Step3>Press button "Login"</Step3>
+      </Description>
+      <Result>403</Result>
+  </LogIn_Button>
+</Bug_Report>
